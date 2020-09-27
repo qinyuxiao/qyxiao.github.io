@@ -11,7 +11,7 @@ I am an M.Phil. candidate at the Department of Psychology, University of Hong Ko
 * [PROJECTS]({{ qinyuxiao.github.io }}/projects)
 * [TEACHING]({{ qinyuxiao.github.io }}/teaching)
 
-### About me
+### About Me
 
 #### Background
 
