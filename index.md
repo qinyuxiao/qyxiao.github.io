@@ -6,3 +6,4 @@ I am an M.Phil. candidate at the Department of Psychology, University of Hong Ko
 
 * [HOME]({{ qyxiao.github.io }}/index)
 * [ABOUT ME]({{ qyxiao.github.io }}/about)
+* [PUBLICATIONS]({{ qyxiao.github.io }}/publications)
