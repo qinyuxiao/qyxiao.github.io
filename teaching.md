@@ -15,5 +15,5 @@ I am an M.Phil. candidate at the Department of Psychology, University of Hong Ko
 
 #### HKU
 
-PSYC3052 Advanced Social Psychology ([OSF](https://osf.io/7aj3n/)) (Tutor; Instructor: Dr. Gilad Feldman)  
-PSYC2071 Judgment and Decision Making ([OSF](https://osf.io/d2j39/)) (Tutor; Instructor: Dr. Gilad Feldman)
+PSYC3052 Advanced Social Psychology ([OSF](https://osf.io/7aj3n/)) (Tutor)  
+PSYC2071 Judgment and Decision Making ([OSF](https://osf.io/d2j39/)) (Tutor)
