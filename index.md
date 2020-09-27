@@ -10,4 +10,4 @@ I am an M.Phil. candidate at the Department of Psychology, University of Hong Ko
 * [PUBLICATIONS]({{ qyxiao.github.io }}/publications)
 * [TEACHING]({{ qyxiao.github.io }}/teaching)
 
-I like hiking, reading detective novels, watching Japanese dramas, learning languages, and house cleaning (when pressure accumulates). I speak Mandarin, Cantonese, Japanese, and German.
+I like hiking, reading detective novels, watching Japanese dramas, learning languages, and house cleaning (when pressure accumulates). Other than English, I speak Mandarin, Cantonese, Japanese, and German.
