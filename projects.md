@@ -12,3 +12,5 @@ I am an M.Phil. candidate at the Department of Psychology, University of Hong Ko
 * [TEACHING]({{ qinyuxiao.github.io }}/teaching)
 
 ### Current Projects
+
+* Effect size, confidence intervals, and power analyses collaborative guide [[link](http://mgto.org/effectsizepowerguide)]
