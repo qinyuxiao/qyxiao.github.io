@@ -15,4 +15,4 @@ I am an M.Phil. candidate at the Department of Psychology, University of Hong Ko
 
 #### Background
 
-I graduated from the University of Hong Kong in 2018, with a B.A. in Psychology and Philosophy. I am currently working with **[Gilad Feldman](http://mgto.org/)** at HKU as an M.Phil. student.
+I graduated from the University of Hong Kong in 2018, with a B.A. in Psychology and Philosophy. I am currently working with **[Gilad Feldman](http://mgto.org/)** at HKU as an M.Phil. student (currently in my second and last year). I am actively looking for Ph.D. opportunities around the world.
