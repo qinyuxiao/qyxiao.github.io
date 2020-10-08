@@ -13,6 +13,8 @@ I am an M.Phil. candidate at the Department of Psychology, University of Hong Ko
 
 ### Journal Articles
 
+**Xiao, Q.**\*, Pettibone, J.\*, & Feldman, G. (work in preparation). Using decoys to explore context effects on romantic partner selection: Dominance valuing and compromise aversion.
+
 **Xiao, Q.**, & Feldman, G. (work in preparation). Moral typecasting: Replication and extension of Gray and Wegner (2009). (To be submitted as a Registered Report)
 
 Ziano, I.\*, **Xiao, Q.**\*, Yeung, S. K.\*, Wong, C. Y. J.\*, Cheung, M. Y. S.\*, Lo, J.\*, Yan, M.\*, Narendra, G. I.\*, Kwan, L. W. K.\*, Chow, C. S. R.\*, Chak, Y. M.\*, & Feldman, G.\* (under review). Numbing or sensitization? Replications and extensions of Fetherstonhaugh et al.'s (1977) "Insensitivity to the value of human life". *Journal of Risk and Uncertainty*. [[Preprint](https://www.researchgate.net/publication/344376114_Numbing_or_Sensitization_Replications_and_Extensions_of_Fetherstonhaugh_et_al_1997's_Insensitivity_to_the_Value_of_Human_Life)]
