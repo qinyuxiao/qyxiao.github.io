@@ -21,6 +21,6 @@ Ziano, I.\*, **Xiao, Q.**\*, Yeung, S. K.\*, Wong, C. Y. J.\*, Cheung, M. Y. S.\
 
 **Xiao, Q.**, Zeng, S., & Feldman, G. (in-principle acceptance). Revisiting the decoy effect: Replication and extension of Ariely and Wallsten (1995) and Connolly, Reb, and Kausel (2013). *Comprehensive Results in Social Psychology*. [Publisher] [[Stage 1 Preprint](http://doi.org/10.13140/RG.2.2.26395.00803)] (Registered Report)
 
-**Xiao, Q.**\*, Lam, C. S.\*, Piara, M.\*, & Feldman, G.\* (conditional acceptance). Revisiting the status quo bias: Replication and extension of Samuelson and Zeckhauser (1988). *Meta-Psychology*. [Publisher] [[Preprint](https://doi.org/10.31234/osf.io/ta97c)]
+**Xiao, Q.**\*, Lam, C. S.\*, Piara, M.\*, & Feldman, G.\* (conditional acceptance). Revisiting the status quo bias: Replication of Samuelson and Zeckhauser (1988). *Meta-Psychology*. [Publisher] [[Preprint](https://doi.org/10.31234/osf.io/ta97c)]
 
 *\* = equal contribution*
