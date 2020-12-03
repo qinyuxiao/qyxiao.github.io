@@ -15,7 +15,7 @@
 
 **Xiao, Q.**, & Feldman, G. (work in preparation). Moral typecasting: Replication and extension of Gray and Wegner (2009). (To be submitted as a Registered Report)
 
-Ziano, I.\*, **Xiao, Q.**\*, Yeung, S. K.\*, Wong, C. Y. J.\*, Cheung, M. Y. S.\*, Lo, J.\*, Yan, M.\*, Narendra, G. I.\*, Kwan, L. W. K.\*, Chow, C. S. R.\*, Chak, Y. M.\*, & Feldman, G.\* (under review). Numbing or sensitization? Replications and extensions of Fetherstonhaugh et al.'s (1977) "Insensitivity to the value of human life". *Journal of Risk and Uncertainty*. [[Preprint](https://www.researchgate.net/publication/344376114_Numbing_or_Sensitization_Replications_and_Extensions_of_Fetherstonhaugh_et_al_1997's_Insensitivity_to_the_Value_of_Human_Life)]
+Ziano, I.\*, **Xiao, Q.**\*, Yeung, S. K.\*, Wong, C. Y. J.\*, Cheung, M. Y. S.\*, Lo, J.\*, Yan, M.\*, Narendra, G. I.\*, Kwan, L. W. K.\*, Chow, C. S. R.\*, Chak, Y. M.\*, & Feldman, G.\* (under review). Numbing or sensitization? Replications and extensions of Fetherstonhaugh et al.'s (1977) "Insensitivity to the value of human life". *Journal of Experimental Social Psychology*. [[Preprint](https://doi.org/10.13140/RG.2.2.10976.71681)]
 
 **Xiao, Q.**, Zeng, S., & Feldman, G. (in-principle acceptance). Revisiting the decoy effect: Replication and extension of Ariely and Wallsten (1995) and Connolly, Reb, and Kausel (2013). *Comprehensive Results in Social Psychology*. [Publisher] [[Stage 2 preprint under review](http://doi.org/10.13140/RG.2.2.26395.00803/2)] (Registered Report)
 
