@@ -3,8 +3,6 @@
 [**Email**: [xqy1020 at hku](mailto:xqy1020@connect.hku.hk)] [**Twitter**: [@qinyu_xiao](https://twitter.com/qinyu_xiao)]  
 [**ORCID**: [0000-0002-9824-9247](https://orcid.org/0000-0002-9824-9247)] [[OSF](https://osf.io/f9jze/)] [[ResearchGate](https://www.researchgate.net/profile/Qinyu_Xiao)] [[Google Scholar](https://scholar.google.com.hk/citations?hl=en&user=v3wnhNoAAAAJ)]
 
-I am an M.Phil. candidate at the Department of Psychology, University of Hong Kong. I am interested in morality, social cognition, and judgment and decision-making, and seeking to apply these knowledges to environmental/political issues. I am a keen supporter of open science and replication studies.
-
 * [HOME]({{ qinyuxiao.github.io }}/index)
 * [ABOUT ME]({{ qinyuxiao.github.io }}/about)
 * [PUBLICATIONS]({{ qinyuxiao.github.io }}/publications)
@@ -24,3 +22,9 @@ Ziano, I.\*, **Xiao, Q.**\*, Yeung, S. K.\*, Wong, C. Y. J.\*, Cheung, M. Y. S.\
 **Xiao, Q.**\*, Lam, C. S.\*, Piara, M.\*, & Feldman, G.\* (conditional acceptance). Revisiting the status quo bias: Replication of Samuelson and Zeckhauser (1988). *Meta-Psychology*. [Publisher] [[Preprint](https://doi.org/10.31234/osf.io/ta97c)]
 
 *\* = equal contribution*
+
+### Mass Collaborations
+
+* Psychological Science Accelerator Rapid-Response COVID-19 Project (PSACR) [[link](https://psysciacc.org/studies/psacr-1-2-3/)]
+* Psychological Science Accelerator 004 True Belief [[link](https://psysciacc.org/004-true-belief/)]
+* Construal Level International Multilab Replication Project (CLIMR) [[link](https://climr.org/)]
