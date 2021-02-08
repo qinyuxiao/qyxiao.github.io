@@ -11,4 +11,4 @@
 
 ### Current Projects
 
-* Effect size, confidence intervals, and power analyses collaborative guide [[link](http://mgto.org/effectsizepowerguide)]
+* Effect sizes, confidence intervals, and power analyses collaborative guide [[link](http://mgto.org/effectsizepowerguide)]

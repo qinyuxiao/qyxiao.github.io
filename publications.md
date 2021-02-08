@@ -11,20 +11,14 @@
 
 ### Journal Articles
 
-**Xiao, Q.**\*, Pettibone, J.\*, & Feldman, G. (work in preparation). Using decoys to explore context effects on romantic partner selection: Dominance valuing and compromise aversion.
+Please refer to my [CV]({{ qinyuxiao.github.io }}/pub_files/Curriculum Vitae_Qinyu Xiao.pdf) for those papers in preparation or under review.
 
-**Xiao, Q.**, & Feldman, G. (work in preparation). Moral typecasting: Replication and extension of Gray and Wegner (2009). (To be submitted as a Registered Report)
+#### 2021
 
-Ziano, I.\*, **Xiao, Q.**\*, Yeung, S. K.\*, Wong, C. Y. J.\*, Cheung, M. Y. S.\*, Lo, J.\*, Yan, M.\*, Narendra, G. I.\*, Kwan, L. W. K.\*, Chow, C. S. R.\*, Chak, Y. M.\*, & Feldman, G.\* (under review). Numbing or sensitization? Replications and extensions of Fetherstonhaugh et al.'s (1977) "Insensitivity to the value of human life". *Journal of Experimental Social Psychology*. [[Preprint](https://doi.org/10.13140/RG.2.2.10976.71681)]
+**Xiao, Q.**, Zeng, S., & Feldman, G. (2021). Revisiting the decoy effect: Replication and extension of Ariely and Wallsten (1995) and Connolly, Reb, and Kausel (2013). *Comprehensive Results in Social Psychology*. [[Publisher](https://doi.org/10.1080/23743603.2021.1878340)] [[Preprint](http://doi.org/10.13140/RG.2.2.26395.00803/2)] [[OSF](https://osf.io/vsbzk/)] (Registered Report)
 
-**Xiao, Q.**, Zeng, S., & Feldman, G. (in press). Revisiting the decoy effect: Replication and extension of Ariely and Wallsten (1995) and Connolly, Reb, and Kausel (2013). *Comprehensive Results in Social Psychology*. [Publisher] [[Preprint](http://doi.org/10.13140/RG.2.2.26395.00803/2)] (Registered Report)
+### Multi-lab Collaborations
 
-**Xiao, Q.**\*, Lam, C. S.\*, Piara, M.\*, & Feldman, G.\* (conditional acceptance). Revisiting the status quo bias: Replication of Samuelson and Zeckhauser (1988). *Meta-Psychology*. [Publisher] [[Preprint](https://doi.org/10.31234/osf.io/ta97c)]
-
-*\* = equal contribution*
-
-### Mass Collaborations
-
-* Psychological Science Accelerator Rapid-Response COVID-19 Project (PSACR) [[link](https://psysciacc.org/studies/psacr-1-2-3/)]
-* Psychological Science Accelerator 004 True Belief [[link](https://psysciacc.org/004-true-belief/)]
+* Psychological Science Accelerator COVID-19 Rapid-Response Project (PSACR) [[link](https://psysciacc.org/studies/psacr-1-2-3/)]
+* Psychological Science Accelerator 004 True Belief [[link](https://psysciacc.org/004-true-belief/)] [[OSF](https://osf.io/n5b3w/)]
 * Construal Level International Multilab Replication Project (CLIMR) [[link](https://climr.org/)]
