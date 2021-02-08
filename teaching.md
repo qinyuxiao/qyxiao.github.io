@@ -13,5 +13,6 @@
 
 #### HKU
 
+PSYC2020 Fundamentals of Social Psychology (Tutor)
 PSYC3052 Advanced Social Psychology ([OSF](https://osf.io/7aj3n/)) (Tutor)  
 PSYC2071 Judgment and Decision Making ([OSF](https://osf.io/d2j39/)) (Tutor)
