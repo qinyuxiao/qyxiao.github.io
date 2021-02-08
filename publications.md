@@ -20,5 +20,5 @@ Please refer to my [CV]({{ qinyuxiao.github.io }}/pub_files/Curriculum Vitae_Qin
 ### Multi-lab Collaborations
 
 * Psychological Science Accelerator COVID-19 Rapid-Response Project (PSACR) [[link](https://psysciacc.org/studies/psacr-1-2-3/)]
-* Psychological Science Accelerator 004 True Belief [[link](https://psysciacc.org/004-true-belief/)] [[OSF](https://osf.io/n5b3w/)]
+* Psychological Science Accelerator 004 True Belief [[link](https://psysciacc.org/004-true-belief/)] [[OSF](https://osf.io/nrdsf/)]
 * Construal Level International Multilab Replication Project (CLIMR) [[link](https://climr.org/)]

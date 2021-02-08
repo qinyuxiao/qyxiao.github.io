@@ -11,7 +11,7 @@
 
 ### 2020 - 2021
 
-#### HKU
+#### University of Hong Kong
 
 PSYC2020 Fundamentals of Social Psychology (Tutor)  
 PSYC3052 Advanced Social Psychology ([OSF](https://osf.io/7aj3n/)) (Tutor)  
