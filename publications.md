@@ -11,7 +11,7 @@
 
 ### Journal Articles
 
-Please refer to my [CV]({{ qinyuxiao.github.io }}/pub_files/Curriculum Vitae_Qinyu Xiao.pdf) for those papers in preparation or under review.
+Please refer to my [CV]({{ qinyuxiao.github.io }}/pub_files/Curriculum Vitae_Qinyu Xiao.pdf) for papers in preparation or under review.
 
 #### 2021
 
